@@ -1,0 +1,13 @@
+\\vmware-host\Shared Folders\Escritorio\PARCIAL2\FrmTest\bin\Debug\FrmTest.exe.config
+\\vmware-host\Shared Folders\Escritorio\PARCIAL2\FrmTest\bin\Debug\FrmTest.exe
+\\vmware-host\Shared Folders\Escritorio\PARCIAL2\FrmTest\bin\Debug\FrmTest.pdb
+\\vmware-host\Shared Folders\Escritorio\PARCIAL2\FrmTest\obj\Debug\FrmTest.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\PARCIAL2\FrmTest\obj\Debug\FrmTest.FrmTester.resources
+\\vmware-host\Shared Folders\Escritorio\PARCIAL2\FrmTest\obj\Debug\FrmTest.Properties.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\PARCIAL2\FrmTest\obj\Debug\FrmTest.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Escritorio\PARCIAL2\FrmTest\obj\Debug\FrmTest.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Escritorio\PARCIAL2\FrmTest\obj\Debug\FrmTest.exe
+\\vmware-host\Shared Folders\Escritorio\PARCIAL2\FrmTest\obj\Debug\FrmTest.pdb
+\\vmware-host\Shared Folders\Escritorio\PARCIAL2\FrmTest\bin\Debug\Entidades.dll
+\\vmware-host\Shared Folders\Escritorio\PARCIAL2\FrmTest\bin\Debug\Entidades.pdb
+\\vmware-host\Shared Folders\Escritorio\PARCIAL2\FrmTest\obj\Debug\FrmTest.csproj.CopyComplete
